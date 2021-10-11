@@ -1,1 +1,1 @@
-# moon-animation
+This was part of the Hacktoberfest 2021 open source challenge. I contributed this animation to a group project showcasing animations made with the canvas element. See the group project [here](https://zero-to-mastery.github.io/Canvaz/). The projects display randomly on each load. Search for "Moon Phase" to find this submission.
